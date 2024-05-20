@@ -13,7 +13,7 @@ export const colors: colorsType = {
   border: '#D1D1D1',
   text: {
     primary: '#0085FF',
-    secondary: '#444444',
+    secondary: '#344054',
     dim: '#999999',
   },
   button: {
